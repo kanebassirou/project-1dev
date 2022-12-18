@@ -1,0 +1,78 @@
+body {
+    background-size: cover;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav li {
+    list-style: none;
+    padding: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: beige;
+    border-radius: 20px;
+}
+
+li {
+    list-style: none;
+    padding: 10px;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.conteneur {
+    width: 70%;
+    float: right;
+    margin: 10px;
+}
+
+#logo {
+    float: left;
+    margin: -10px;
+    border-radius: 50px;
+}
+
+#imageprincipal {
+    padding-top: 60px;
+    background: url(file:///C:/Users/kaneb/OneDrive/Bureau/projet%20examen/html/image/1662328504515.jpg);
+    background-size: cover;
+    height: 700px;
+}
+
+input {
+    margin-left: 60px;
+    padding: 10px;
+}
+
+form {
+    background: gray;
+    padding-top: 40px;
+    margin: 30px;
+}
+
+#calcul {
+    font-size: 3rem;
+    text-align: center;
+}
+
+.conteneur1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.bloc {
+    color: green;
+}
+
+#copy {
+    text-align: center;
+    margin: 20px;
+    color: grey;
+}
