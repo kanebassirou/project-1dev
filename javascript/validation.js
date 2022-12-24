@@ -6,3 +6,7 @@ function validation() {
         alert("veuillez remplir ce champ");
     }
 }
+
+function suivant() {
+    window.history.forward();
+}

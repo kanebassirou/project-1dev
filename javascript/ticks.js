@@ -5,4 +5,4 @@ var ptD = nbreTicketDej * 50;
 alert("le prix total des ticketS petit dejeuner  sont : " + ptD);
 alert("le prix total des ticketS repas  sont :" + ptR);
 var PT = ptD + ptR;
-alert("le prix à payer total a payer est:" + PT); 
+alert("le prix à payer total a payer est:" + PT);
