@@ -41,7 +41,7 @@ a {
 
 #imageprincipal {
     padding-top: 60px;
-    background: url(file:///C:/Users/kaneb/OneDrive/Bureau/projet%20examen/html/image/1662328504515.jpg);
+    background: url(./image/1662328504515.jpg);
     background-size: cover;
     height: 700px;
 }
